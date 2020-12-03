@@ -24,7 +24,7 @@ function App() {
     {
       title: "Dolly Song",
       artist: "Partz Grimbad",
-      img_src: "./images/song-4.jpg",
+      img_src: "./images/PatzGrimbard-DollySong.jpg",
       src: "./music/PatzGrimbard-DollySong.mp3"
     }
   ]);
