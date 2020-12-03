@@ -4,28 +4,28 @@ import Player from './components/Player';
 function App() {
   const [songs] = useState([
     {
-      title: "Forget me too ft. Halsey",
-      artist: "Machine Gun Kelly",
+      title: "Tango Del Fuego",
+      artist: "Parov Stelar & Georgia Gibbs",
       img_src: "./images/song-1.jpg",
-      src: "./music/on-n-on.mp3"
+      src: "./music/ParovStelarGeorgiaGibbs-TangoDelFuego.mp3"
     },
     {
       title: "Song 2",
       artist: "Artist 2",
       img_src: "./images/song-2.jpg",
-      src: "./music/somebody-new.mp3"
+      src: "./music/JasonDerulo-TakeYouDancing.mp3"
     },
     {
       title: "Song 3",
       artist: "Artist 3",
       img_src: "./images/song-3.jpg",
-      src: "./music/on-n-on.mp3"
+      src: "./music/Ashnikko-Daisy.mp3"
     },
     {
       title: "Song 4",
       artist: "Artist 4",
       img_src: "./images/song-4.jpg",
-      src: "./music/somebody-new.mp3"
+      src: "./music/PatzGrimbard-DollySong.mp3"
     }
   ]);
 
