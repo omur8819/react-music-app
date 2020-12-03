@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #DDD;
+    background: linear-gradient(0deg, rgba(195,126,34,1) 0%, rgba(234,253,45,1) 100%);
 }
 
 .App {
@@ -18,7 +18,7 @@ body {
 
 .c-player {
     display: block;
-    background-color: #313131;
+    background-color: #bf360c;
     display: block;
     margin: 0px auto;
     padding: 50px;
