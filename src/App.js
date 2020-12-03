@@ -6,24 +6,24 @@ function App() {
     {
       title: "Tango Del Fuego",
       artist: "Parov Stelar & Georgia Gibbs",
-      img_src: "./images/song-1.jpg",
+      img_src: "./images/ParovStelarGeorgiaGibbs-TangoDelFuego.jpg",
       src: "./music/ParovStelarGeorgiaGibbs-TangoDelFuego.mp3"
     },
     {
-      title: "Song 2",
-      artist: "Artist 2",
-      img_src: "./images/song-2.jpg",
+      title: "Take You Dancing",
+      artist: "Jason Derulo",
+      img_src: "./images/JasonDerulo-TakeYouDancing.jpg",
       src: "./music/JasonDerulo-TakeYouDancing.mp3"
     },
     {
-      title: "Song 3",
-      artist: "Artist 3",
-      img_src: "./images/song-3.jpg",
+      title: "Daisy",
+      artist: "Ashnikko",
+      img_src: "./images/Ashnikko-Daisy.jpg",
       src: "./music/Ashnikko-Daisy.mp3"
     },
     {
-      title: "Song 4",
-      artist: "Artist 4",
+      title: "Dolly Song",
+      artist: "Partz Grimbad",
       img_src: "./images/song-4.jpg",
       src: "./music/PatzGrimbard-DollySong.mp3"
     }
